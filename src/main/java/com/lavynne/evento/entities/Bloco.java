@@ -1,4 +1,4 @@
-package com.devsuperior.evento.entities;
+package com.lavynne.evento.entities;
 
 import jakarta.persistence.*;
 

@@ -1,4 +1,4 @@
-package com.devsuperior.evento;
+package com.lavynne.evento;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
